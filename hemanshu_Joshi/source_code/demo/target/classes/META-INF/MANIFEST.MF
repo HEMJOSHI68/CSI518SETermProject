@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: Springdemohello
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: hemanshujoshi
+Implementation-Vendor-Id: Springdemo
+Build-Jdk: 1.8.0_151
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/SpringBootDemo
+Created-By: Maven Integration for Eclipse
+
